@@ -1,0 +1,11 @@
+  
+import React from 'react';
+
+// eslint-disable-next-line import/no-anonymous-default-export
+export default function() {
+  return (
+    <h2 className="app-nav-item" style={{ borderColor: 'red' }}>
+      Home
+    </h2>
+  );
+}
